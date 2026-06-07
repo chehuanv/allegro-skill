@@ -1,0 +1,63 @@
+; ============================================================
+; 文件名: calculator.form
+; 功能说明: 表单 - 计算器表单定义
+; 编码格式: GBK (简体中文)
+; 注意事项: 本文件使用GBK编码保存，请勿用UTF-8编码打开
+; ============================================================
+FORM
+FIXED
+PORT 45 30
+HEADER "PCB Calculator"
+
+TILE
+TEXT "Trace Width (mils):"
+TLOC 2 2
+ENDTEXT
+
+FIELD fWidth
+FLOC 20 2
+REALFILLIN 10 10
+DECIMAL 2
+ENDFIELD
+
+TEXT "Copper Weight (oz):"
+TLOC 2 5
+ENDTEXT
+
+FIELD fCopper
+FLOC 20 5
+REALFILLIN 10 10
+DECIMAL 2
+ENDFIELD
+
+TEXT "Temperature Rise (°C):"
+TLOC 2 8
+ENDTEXT
+
+FIELD fTemp
+FLOC 20 8
+REALFILLIN 10 10
+DECIMAL 1
+ENDFIELD
+
+FIELD btnCalc
+FLOC 2 12
+MENUBUTTON "Calculate Current" 18 3
+ENDFIELD
+
+FIELD btnClose
+FLOC 22 12
+MENUBUTTON "Close" 10 3
+ENDFIELD
+
+TEXT "Result:"
+TLOC 2 16
+ENDTEXT
+
+FIELD fResult
+FLOC 2 18
+STRFILLIN 35 64
+ENDFIELD
+
+ENDTILE
+ENDFORM

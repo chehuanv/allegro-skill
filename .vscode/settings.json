@@ -1,0 +1,116 @@
+{
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": false,
+    "editor.defaultFormatter": null,
+    "[python]": {
+        "files.encoding": "gbk"
+    },
+    "[javascript]": {
+        "files.encoding": "gbk"
+    },
+    "[typescript]": {
+        "files.encoding": "gbk"
+    },
+    "[html]": {
+        "files.encoding": "gbk"
+    },
+    "[css]": {
+        "files.encoding": "gbk"
+    },
+    "[json]": {
+        "files.encoding": "gbk"
+    },
+    "[xml]": {
+        "files.encoding": "gbk"
+    },
+    "[yaml]": {
+        "files.encoding": "gbk"
+    },
+    "[markdown]": {
+        "files.encoding": "gbk"
+    },
+    "[shellscript]": {
+        "files.encoding": "gbk"
+    },
+    "[batch]": {
+        "files.encoding": "gbk"
+    },
+    "[powershell]": {
+        "files.encoding": "gbk"
+    },
+    "[sql]": {
+        "files.encoding": "gbk"
+    },
+    "[java]": {
+        "files.encoding": "gbk"
+    },
+    "[c]": {
+        "files.encoding": "gbk"
+    },
+    "[cpp]": {
+        "files.encoding": "gbk"
+    },
+    "[csharp]": {
+        "files.encoding": "gbk"
+    },
+    "[go]": {
+        "files.encoding": "gbk"
+    },
+    "[rust]": {
+        "files.encoding": "gbk"
+    },
+    "[ruby]": {
+        "files.encoding": "gbk"
+    },
+    "[php]": {
+        "files.encoding": "gbk"
+    },
+    "[swift]": {
+        "files.encoding": "gbk"
+    },
+    "[kotlin]": {
+        "files.encoding": "gbk"
+    },
+    "[scala]": {
+        "files.encoding": "gbk"
+    },
+    "[r]": {
+        "files.encoding": "gbk"
+    },
+    "[objective-c]": {
+        "files.encoding": "gbk"
+    },
+    "[perl]": {
+        "files.encoding": "gbk"
+    },
+    "[lua]": {
+        "files.encoding": "gbk"
+    },
+    "[viml]": {
+        "files.encoding": "gbk"
+    },
+    "[dockerfile]": {
+        "files.encoding": "gbk"
+    },
+    "[makefile]": {
+        "files.encoding": "gbk"
+    },
+    "[cmake]": {
+        "files.encoding": "gbk"
+    },
+    "[ini]": {
+        "files.encoding": "gbk"
+    },
+    "[properties]": {
+        "files.encoding": "gbk"
+    },
+    "[toml]": {
+        "files.encoding": "gbk"
+    },
+    "[diff]": {
+        "files.encoding": "gbk"
+    },
+    "[plaintext]": {
+        "files.encoding": "gbk"
+    }
+}

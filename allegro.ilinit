@@ -1,0 +1,14 @@
+;; ============================================================
+;; 文件名: allegro.ilinit
+;; 功能说明: Allegro启动初始化文件，自动加载工具箱
+;; 编码格式: GBK (简体中文)
+;; 注意事项: 本文件使用GBK编码保存，请勿用UTF-8编码打开
+;; ============================================================
+;; AllegroSkillToolbox Entry Point
+;; Method: Absolute path (no copy to Cadence dir needed)
+;; Toolbox location: D:/Users/Lenovo/Desktop/allegro/AllegroSkillToolbox
+
+(defvar AST_INSTALL_DIR "D:/Users/Lenovo/Desktop/allegro")
+load(strcat(AST_INSTALL_DIR "/AllegroSkillToolbox/main.il"))
+load("./FanySkill/FanySkill_main.il")
+

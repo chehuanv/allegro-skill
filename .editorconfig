@@ -1,0 +1,30 @@
+root = true
+
+[*]
+charset = gbk
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{il,ilinit,form}]
+charset = gbk
+indent_style = space
+indent_size = 2
+
+[*.{cfg,py,js,ts,json,xml,yaml,yml}]
+charset = gbk
+indent_style = space
+indent_size = 4
+
+[*.{c,cpp,h,hpp,cs,java,go,rs,php,swift,kt,scala}]
+charset = gbk
+indent_style = space
+indent_size = 4
+
+[*.{html,css,sh,bat,cmd,ps1,sql,r,m,mm}]
+charset = gbk
+indent_style = space
+indent_size = 2
