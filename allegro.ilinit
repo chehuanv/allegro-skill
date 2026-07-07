@@ -10,5 +10,5 @@
 
 (defvar AST_INSTALL_DIR "D:/Users/Lenovo/Desktop/allegro")
 load(strcat(AST_INSTALL_DIR "/AllegroSkillToolbox/main.il"))
-load("./FanySkill/FanySkill_main.il")
+
 
