@@ -1,0 +1,5 @@
+
+The IPC-D-356 format only allows netnames
+up to 14 characters long. The following
+nets have been truncated to 14 characters:
+
